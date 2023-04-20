@@ -6,7 +6,4 @@ wall of shield
 
 two more
 lines
-
-gha
-and also this line
-amendment 1
+---------------------
