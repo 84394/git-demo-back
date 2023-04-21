@@ -6,9 +6,4 @@ wall of shield
 
 two more
 lines
----------------------
-
-Master 1
-
-Feature 1
 
