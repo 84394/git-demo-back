@@ -10,3 +10,8 @@ lines
 Lyrics:
 I can't go any further than this
 Every single day, guess, I'm really missing
+<<<<<<< HEAD
+=======
+
+FEATURE commit
+>>>>>>> feature
